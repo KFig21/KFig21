@@ -6,7 +6,7 @@
   <li>🌱 I’m currently learning through The Odin Project's full stack JavaScript curriculum</li>
   <li>💬 Ask me about anything</li>
   <li>📫 Reach me at Kevin.Figenshu@gmail.com</li>
-  <li>🧠 Check me out on <a href="https://leetcode.com/KFig21/" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
+  <li>👨‍💻 Check me out on <a href="https://leetcode.com/KFig21/" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
 </ul>
 
 <!---
