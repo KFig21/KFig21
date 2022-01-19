@@ -2,7 +2,7 @@
 
 <ul>
   <li>👀 <a href="https://kfig21.github.io/portfolio_2021/" target="_blank" rel="noopener noreferrer">Check out my portfolio here!</a></li>
-  <li>🐱‍💻 I’m focused on beginning my career in Web Development</li>
+  <li>🐱‍💻 I’m focused on beginning my career in Web Development/Software Engineering</li>
   <li>🌱 I've completed The Odin Project's Full Stack JavaScript development curriculum</li>
   <li>💬 Ask me about anything</li>
   <li>📫 Reach me at Kevin.Figenshu@gmail.com</li>
